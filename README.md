@@ -5,6 +5,7 @@
 
 ## 📁 폴더 구조
 
+```
 DeepLearning/
 │ ├─ 1. 퍼셉트론.ipynb
 │ ├─ 18_NeuralNetwork.ipynb
@@ -24,6 +25,7 @@ DeepLearning/
 │ ├─ XOR_Problem_with_sklearn_MLPClassifier.ipynb
 │ ├─ 은닉층_XOR_신경망_시각화.ipynb
 └─ README.md
+```
 
 ## 목차
 
@@ -178,7 +180,7 @@ source venv/bin/activate      # macOS/Linux
 venv\Scripts\activate.bat     # Windows
 pip install -r requirements.txt
 jupyter notebook
-
+```
 ---
 
 **참고:** 각 폴더에는 해당 이론을 바탕으로 구현된 Python 코드와 이론 설명이 포함되어 있습니다. 자세한 내용은 각 폴더의 소스 코드를 참고해주세요.
